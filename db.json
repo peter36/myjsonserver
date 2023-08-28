@@ -52,7 +52,21 @@
         "lastname": "De Bruyne",
         "profilepic": "https://sportsmatik.com/uploads/thumbs/300x300/world-events/players/kevin-de-bruyne_1618405393.jpg",
         "team": "Machester City",
-        "number": 17
+        "number": 17,
+        "highlights": [
+            {
+                "id": 1,
+                "title": "Man City 4-1 Arsenal",
+                "date": "04/26/2023",
+                "link": "https://youtu.be/o3Dadq-qLpw?si=-25yIwAQ4u68Ejc5"
+            },
+            {
+                "id": 2,
+                "title": "Man City at Real Madrid UCL Semi-Finals Leg 1",
+                "date": "05/09/2023",
+                "link": "https://youtu.be/wFU1rF6DfWs?si=cNF7GLsXx2UCUS8d"
+            }
+        ]
     },
     {
         "id": 3,
