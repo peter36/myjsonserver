@@ -23,7 +23,55 @@
       "name": "mary"
     }
   ],
+  "players": [
+    {
+        "id": 1,
+        "firstname": "Lionel",
+        "lastname": "Messi",
+        "profilepic": "https://sportsmatik.com/uploads/world-events/players/lionel-messi_1564492648.jpg",
+        "team": "Inter Miami",
+        "number": 10,
+        "highlights": [
+            {
+                "id": 1,
+                "title": "Second Assist Ties U.S. Open Cup Semifinal",
+                "date": "08/23/2023",
+                "link": "https://youtu.be/WYQ87m94lck?si=Rs_b9CK2Eehg96wF"
+            },
+            {
+                "id": 2,
+                "title": "MLS Debut against New York Bulls",
+                "date": "08/26/2023",
+                "link": "https://youtu.be/PYPsG6X4ErI?si=ZViowg5Rb8-nF8ff"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "firstname": "Kevin",
+        "lastname": "De Bruyne",
+        "profilepic": "https://sportsmatik.com/uploads/thumbs/300x300/world-events/players/kevin-de-bruyne_1618405393.jpg",
+        "team": "Machester City",
+        "number": 17
+    },
+    {
+        "id": 3,
+        "firstname": "Harry",
+        "lastname": "Kane",
+        "profilepic": "https://sportsmatik.com/uploads/world-events/players/harry-kane_1595929438.jpg",
+        "team": "Bayern Munich",
+        "number": 9
+    },
+    {
+        "id": 4,
+        "firstname": "Cristiano",
+        "lastname": "Ronaldo",
+        "profilepic": "https://sportsmatik.com/uploads/world-events/players/cristiano-ronaldo_1564471718.jpg",
+        "team": "Al Nassr",
+        "number": 7
+    }
+  ],
   "profile": {
-    "name": "typicode"
+    "name": "peter"
   }
 }
