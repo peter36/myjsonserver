@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    },
+    {
+      "id": 2,
+      "title": "world"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "peter"
+    },
+    {
+      "id": 2,
+      "name": "john"
+    },
+    {
+      "id": 3,
+      "name": "mary"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
