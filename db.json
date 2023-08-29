@@ -77,7 +77,23 @@
         "profilepic": "https://sportsmatik.com/uploads/world-events/players/cristiano-ronaldo_1564471718.jpg",
         "team": "Al Nassr",
         "number": 7
-    }
+    },
+    {
+      "id": 5,
+      "firstname": "Neymar Jr",
+      "lastname": "da Silva Santos",
+      "profilepic": "https://sportsmatik.com/uploads/world-events/players/nymer_1564473570.jpg",
+      "team": "Al Hilal",
+      "number": 10,
+      "highlights": [
+        {
+            "id": 1,
+            "title": "Neymar's first season in PSG",
+            "date": "02/17/2022",
+            "link": "https://youtube.com/embed/k4UpLs6j7Fk"
+        }
+    ]
+  }
   ],
   "profile": {
     "name": "peter"
